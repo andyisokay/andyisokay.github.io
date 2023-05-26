@@ -4,13 +4,13 @@ main:
     url: /year-archive/
     
   - title: "Portfolio"
-    url: /portfolio/ 
+    url: https://sepia-office-ba0.notion.site/dd5310b8a59b4476a1ebaaf17d129751?v=5748d6e5988a4866b6cdd824782bc864 
     
-  - title: "Free Writtings"
-    url: /free_writtings/
+  - title: "Free Writings"
+    url: https://sepia-office-ba0.notion.site/Free-Writing-b997839317a443f2812b682ff6f093ea
     
   - title: "Gallery"
-    url: /gallery/
+    url: /portfolio/
     
   - title: "Courses"
     url: /courses/

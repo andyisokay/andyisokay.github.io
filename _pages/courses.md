@@ -5,12 +5,9 @@ permalink: /courses/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<img src='/files/learning.gif' width="80%" height="40%" div align=center />
 
-{% include base_path %}
+> 💡 Click [here](https://sepia-office-ba0.notion.site/0a58028a961e4d349c68c0263b5b7c60?v=f69cb82e2d194961aad26be7ce12fb8e) to see all the courses I've taken, including my notes.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+---
+

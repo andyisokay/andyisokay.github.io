@@ -243,3 +243,64 @@
     }
   }
 }
+
+
+/*
+ Portfolio-image 
+ ========================================================================== */
+ 
+.portfolio-item-image-wrapper {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  display: inline-block;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.portfolio-item-image-container {
+  display: inline-block;
+  justify-content: center;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.portfolio-item-image {
+  max-width: 85%;
+  height: auto;
+  object-fit: cover;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.portfolio-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+  row-gap: 0.5rem; /* Adjust the gap between rows */
+  column-gap: 2px; /* Adjust the gap between columns */
+}
+
+.portfolio-item {
+  border: 0.4px gray #e1e1e1;
+  padding: 0.2rem; 
+  border-radius: 4px;
+  text-align: center; /* Add this line to center the text */
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
+.portfolio-item-title {
+  margin-top: 4px;
+  margin-bottom: 20px;
+  color: black; /* Change the color to your preference */
+  font-family: 'Roboto Condensed', sans-serif; /* Use your preferred font family */
+  font-weight: normal; /* Adjust the font weight as needed */
+  font-size: 40px; /* Adjust the font size as desired */
+}
+
+.portfolio-item-title a {
+  color: #000000; /* Black color */
+  text-decoration: none; /* Removes the underline */
+}
+
+.portfolio-item-title a:hover {
+  color: #333333; /* Dark gray color when hovered */
+  text-decoration: underline; /* Adds an underline when hovered (optional) */
+}
