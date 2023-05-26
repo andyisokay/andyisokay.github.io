@@ -9,10 +9,11 @@
 locale                   : "en-US"
 title                    : "Andy Lee"
 title_separator          : "-"
-description              : &description "Hey there!"
+name                     : &name "Andy" 
+description              : &description "welcome to my zone ~_~"
 url                      : https://andyisokay.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "andyisokay/andyisokay.github.io" # "academicpages/academicpages.github.io"
+repository               : "academicpages/academicpages.github.io" # "andyisokay/andyisokay.github.io" 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hi, this is Andy!"
+  name             : "Hi, this is Andy Lee!"
   avatar           : "profile.png"
   bio              : "    "
   location         : "Pudong New Area, Shanghai"

@@ -1,23 +1,37 @@
 # main links links
-main:
-
-  - title: "Blog Posts"
+main:   
+  - title: "Blogs"
     url: /year-archive/
     
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Courses"
-    url: /teaching/    
-    
   - title: "Portfolio"
-    url: /portfolio/       
+    url: /portfolio/ 
     
-  - title: "CV"
+  - title: "Free Writtings"
+    url: /free_writtings/
+    
+  - title: "Gallery"
+    url: /gallery/
+    
+  - title: "Courses"
+    url: /courses/
+   
+  - title: "Publications"
+    url: /publications/ 
+ 
+  - title: "About me/CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+ 
+    
+
+
+    
+
+    
+
+    
+  
+
+
+
+
