@@ -52,7 +52,7 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0.25em;
     border-bottom: none;
   }
 }
@@ -66,12 +66,25 @@
   }
 }
 
+.archive__item {
+  display: flex; /* Add this line */
+  /* ... other properties ... */
+}
+
 .archive__item-teaser {
-  border-radius: $border-radius;
-  overflow: hidden;
-  img {
-    width: 100%;
-  }
+  flex-shrink: 0;
+  margin-left: 1rem;
+  width: 50%; /* Set the width of the archive__item-teaser div */
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Add this to align the content to the top of the container */
+}
+
+.archive__item-teaser img {
+  width: 100%; /* Adjust this value to set the desired image width */
+  height: 400px; /* Set the desired image height */
+  margin-right: 1rem;
+  float: none
 }
 
 .archive__item:hover {
@@ -304,3 +317,51 @@
   color: #333333; /* Dark gray color when hovered */
   text-decoration: underline; /* Adds an underline when hovered (optional) */
 }
+
+/*
+ Archive-item-teaser 
+ ========================================================================== */
+
+.archive__item-teaser img {
+  width: 100px;
+  height: auto;
+  margin-right: 1rem;
+  float: left; /* Align the image to the left of the text */
+}
+
+
+/* 
+ Blog items with image 
+ ========================================================================== */
+ 
+.blog-item {
+  display: flex;
+  align-items: flex-start; /* Align the content to the top of the container */
+  margin-bottom: 1.5rem;
+}
+
+/* Add a new selector for the blog text container */
+.blog-text {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 55%; /* Set the height to match the blog-image container */
+}
+
+.blog-image {
+  flex-shrink: 0;
+  margin-left: 1rem;
+  width: 50%; /* Adjust the width of the blog-image div */
+  height: 50%; /* Set the height to match the blog-text container */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  order: 2; /* Move the image to the right */
+}
+
+.blog-image img {
+  height: 100%;
+  object-fit: cover; /* Maintain the aspect ratio of the image */
+}
+
