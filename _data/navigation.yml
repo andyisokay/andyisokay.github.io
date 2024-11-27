@@ -1,10 +1,10 @@
 # main links links
 main:   
-  - title: "Blogs"
-    url: https://sepia-office-ba0.notion.site/185146833f7343c3b55bc37e78f7ed27?v=067f11b9a23343fab5d4c4482a38d6fb
-    
-  - title: "Portfolio"
-    url: https://sepia-office-ba0.notion.site/abfb795e343e4e3fb5f194a2363fdb6a?v=f49057105b2343208c86853c25120df0
+  - title: "Publications"
+    url: /publications/ 
+ 
+  - title: "Courses"
+    url: /courses/
     
   - title: "Free Writings"
     url: https://sepia-office-ba0.notion.site/Free-Writing-b997839317a443f2812b682ff6f093ea
@@ -12,14 +12,9 @@ main:
   - title: "Gallery"
     url: /gallery/
     
-  - title: "Courses"
-    url: /courses/
+  
    
-  - title: "Publications"
-    url: /publications/ 
- 
-  - title: "About me/CV"
-    url: http://andyisokay.github.io/files/cv.pdf
+  
     
  
     
