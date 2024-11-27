@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> Hi, this is Andy! I'm currently a 1st year grad student at [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/).
+> Hi, this is Andy! I'm currently a 3rd year grad student at [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/).
 
 Blogs
 ======
@@ -36,7 +36,7 @@ I also provide my notes for some of them.
 
 Publications
 ======
-My papers are here! (although it's an empty space now, lol)
+My papers are here!
 
 About me/CV
 ======

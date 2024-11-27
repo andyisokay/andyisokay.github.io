@@ -16,7 +16,7 @@ main:
     url: /courses/
    
   - title: "Publications"
-    url: https://sepia-office-ba0.notion.site/e1483fdf5f6c4e5eb206353dd0aad5c0?v=c5195a8358894699918463b65ecd2bc7 
+    url: /publications/ 
  
   - title: "About me/CV"
     url: http://andyisokay.github.io/files/cv.pdf
