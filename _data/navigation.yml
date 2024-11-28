@@ -4,10 +4,10 @@ main:
     url: /publications/ 
  
   - title: "Courses"
-    url: /courses/
-    
+    url: https://andyisok.notion.site/Andy-is-Okay-07cff9094d1a4ce381a41f350272ab2b
+
   - title: "Free Writings"
-    url: https://sepia-office-ba0.notion.site/Free-Writing-b997839317a443f2812b682ff6f093ea
+    url: https://andyisok.notion.site/Free-Writing-b997839317a443f2812b682ff6f093ea?pvs=4
     
   - title: "Gallery"
     url: /gallery/
