@@ -9,15 +9,14 @@ redirect_from:
 ---
 > Hi, this is Andy! I'm currently a 3rd year grad student at [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/).
 
-Blogs
+Publications
 ======
-Welcome! I'm putting my technical blog posts in this section. 
-Don't hesitate to reach out if you're interested in any of them and have some questions.
+My papers are here!
 
-Portfolio
+Courses
 ======
-In the portfolio page, you could find a curated collection of my work.
-Like some on-going projects or interesting programs I'm participated in.
+Here are some courses/tutorials I took and enjoyed with. Most of them would be about Data Science. 
+I also provide my notes for some of them. 
 
 Free Writings
 ======
@@ -28,25 +27,4 @@ Gallery
 ======
 "i'm lovin' it" 
 This is my favorate section. I'll showcase some visual work here, including photography, generated art, and etc. 
-
-Courses
-======
-Here are some courses/tutorials I took and enjoyed with. Most of them would be about Data Science. 
-I also provide my notes for some of them. 
-
-Publications
-======
-My papers are here!
-
-About me/CV
-======
-Download my latest cv if interested.
-
-One last note
-======
-Since I've linked my notion database to this website, you might be re-directed to a notion page sometimes.
-(e.g. when clicking *Blogs* on the navigation bar) The advantage is that I can edit blogs and respond to comments with my mobile devices at any time. 
-(whisper: actually the main reason is I'm tired coping with the annoying css format (๑´0`๑)
-Therefore, please feel free to click "comment" to leave your words if you want to. 
-Also, any feedback via email, social media is welcome!
 
